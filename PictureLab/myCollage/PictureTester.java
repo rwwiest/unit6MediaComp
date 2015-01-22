@@ -79,6 +79,7 @@ public class PictureTester
       //tiger.mirrorTemple(0,264,0,274);
       //tiger.mirrorTemple(506,766,0,274);
       tiger.explore();
+      tiger.write("MyCollage.jpg");
   }
   
   
